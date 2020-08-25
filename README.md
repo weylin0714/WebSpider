@@ -26,8 +26,9 @@
 
 ## 3. 数据存储
 
-#### 3.1 文件存储
+#### [3.1 文件存储](https://github.com/weylin0714/WebSpider/blob/master/ch03/%E6%96%87%E4%BB%B6%E5%AD%98%E5%82%A8.md)
 
-#### 3.2 关系型数据库存储
+#### [3.2 关系型数据库存储](https://github.com/weylin0714/WebSpider/blob/master/ch03/%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%98%E5%82%A8.md)
 
-#### 3.3 非关系型数据库存储
+#### [3.3 非关系型数据库存储](https://github.com/weylin0714/WebSpider/blob/master/ch03/%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%98%E5%82%A8.md)
+
