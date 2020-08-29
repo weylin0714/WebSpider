@@ -97,9 +97,9 @@ GET 和 POST 请求方法有如下区别：
 
 响应头包含了服务器对请求的应答信息，如 Content-Type、Server、Set-Cookie 等。
 
-**Content-Type：**文档类型，指定返回的数据类型是什么。
+**Content-Type**：文档类型，指定返回的数据类型是什么。
 
-**Set-Cookie：**设置 Cookies。响应头中的 Set-Cookie 告诉浏览器需要将此内容放在 Cookies 中，下次请求携带 Cookies 请求。
+**Set-Cookie**：设置 Cookies。响应头中的 Set-Cookie 告诉浏览器需要将此内容放在 Cookies 中，下次请求携带 Cookies 请求。
 
 - 响应体
 
