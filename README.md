@@ -12,7 +12,7 @@
 
 ## 2. 基本库的使用
 
-#### [2.1 requests的使用](https://github.com/weylin0714/WebSpider/blob/master/ch02/requests%E7%9A%84%E4%BD%BF%E7%94%A8.md)
+#### [2.1 requests的使用]([https://nbviewer.jupyter.org/github/weylin0714/WebSpider/blob/master/ch02/requests%E7%9A%84%E4%BD%BF%E7%94%A8.ipynb](https://nbviewer.jupyter.org/github/weylin0714/WebSpider/blob/master/ch02/requests的使用.ipynb))
 
 #### [2.2 urllib的使用](https://github.com/weylin0714/WebSpider/blob/master/ch02/urllib%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 
