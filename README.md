@@ -16,7 +16,11 @@
 
 #### [2.2 正则表达式](https://htmlpreview.github.io/?https://github.com/weylin0714/WebSpider/blob/master/ch02/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.html)
 
-#### [2.3 pyquery的使用](https://github.com/weylin0714/WebSpider/blob/master/ch02/pyquery%E7%9A%84%E4%BD%BF%E7%94%A8.md)
+#### [2.3 解析库的使用-XPath](https://nbviewer.jupyter.org/github/weylin0714/WebSpider/blob/master/ch02/%E8%A7%A3%E6%9E%90%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8-XPath.ipynb)
+
+#### 2.4 解析库的使用-Beautiful Soup
+
+#### [2.5 pyquery的使用](https://github.com/weylin0714/WebSpider/blob/master/ch02/pyquery%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 
 ## 3. 数据存储
 
