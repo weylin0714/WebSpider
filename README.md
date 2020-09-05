@@ -14,7 +14,7 @@
 
 #### [2.1 requests的使用](https://nbviewer.jupyter.org/github/weylin0714/WebSpider/blob/master/ch02/requests的使用.ipynb)
 
-#### [2.2 正则表达式](https://github.com/weylin0714/WebSpider/blob/master/ch02/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
+#### [2.2 正则表达式](https://htmlpreview.github.io/?https://github.com/weylin0714/WebSpider/blob/master/ch02/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.html)
 
 #### [2.3 pyquery的使用](https://github.com/weylin0714/WebSpider/blob/master/ch02/pyquery%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 
