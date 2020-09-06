@@ -18,7 +18,7 @@
 
 #### [2.3 解析库的使用-XPath](https://nbviewer.jupyter.org/github/weylin0714/WebSpider/blob/master/ch02/%E8%A7%A3%E6%9E%90%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8-XPath.ipynb)
 
-#### 2.4 解析库的使用-Beautiful Soup
+#### [2.4 解析库的使用-Beautiful Soup](https://nbviewer.jupyter.org/github/weylin0714/WebSpider/blob/master/ch02/%E8%A7%A3%E6%9E%90%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8-Beautiful%20Soup.ipynb)
 
 #### [2.5 pyquery的使用](https://github.com/weylin0714/WebSpider/blob/master/ch02/pyquery%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 
