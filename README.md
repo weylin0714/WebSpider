@@ -20,7 +20,7 @@
 
 #### [2.4 解析库的使用-Beautiful Soup](https://nbviewer.jupyter.org/github/weylin0714/WebSpider/blob/master/ch02/%E8%A7%A3%E6%9E%90%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8-Beautiful%20Soup.ipynb)
 
-#### [2.5 pyquery的使用](https://github.com/weylin0714/WebSpider/blob/master/ch02/pyquery%E7%9A%84%E4%BD%BF%E7%94%A8.md)
+#### [2.5 pyquery的使用](https://nbviewer.jupyter.org/github/weylin0714/WebSpider/blob/master/ch02/%E8%A7%A3%E6%9E%90%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8-pyquery.ipynb)
 
 ## 3. 数据存储
 
