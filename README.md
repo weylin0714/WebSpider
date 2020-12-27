@@ -14,7 +14,7 @@
 
 #### [2.1 requests的使用](https://nbviewer.jupyter.org/github/weylin0714/WebSpider/blob/master/ch02/requests的使用.ipynb)
 
-#### [2.2 正则表达式](https://htmlpreview.github.io/?https://github.com/weylin0714/WebSpider/blob/master/ch02/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.html)
+#### [2.2 正则表达式](https://github.com/weylin0714/WebSpider/blob/master/ch02/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
 
 #### [2.3 解析库的使用-XPath](https://nbviewer.jupyter.org/github/weylin0714/WebSpider/blob/master/ch02/%E8%A7%A3%E6%9E%90%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8-XPath.ipynb)
 
@@ -29,4 +29,6 @@
 #### [3.2 关系型数据库存储](https://github.com/weylin0714/WebSpider/blob/master/ch03/%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%98%E5%82%A8.md)
 
 #### [3.3 非关系型数据库存储](https://github.com/weylin0714/WebSpider/blob/master/ch03/%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%98%E5%82%A8.md)
+
+`test`
 
