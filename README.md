@@ -22,13 +22,58 @@
 
 #### [2.5 pyquery的使用](https://nbviewer.jupyter.org/github/weylin0714/WebSpider/blob/master/ch02/%E8%A7%A3%E6%9E%90%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8-pyquery.ipynb)
 
-## 3. 数据存储
+#### 2.6 高效存储 MongoDB 的用法
 
-#### [3.1 文件存储](https://github.com/weylin0714/WebSpider/blob/master/ch03/%E6%96%87%E4%BB%B6%E5%AD%98%E5%82%A8.md)
+#### 2.7 基本案例实战
 
-#### [3.2 关系型数据库存储](https://github.com/weylin0714/WebSpider/blob/master/ch03/%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%98%E5%82%A8.md)
+## 3. 多种形式的爬取方法
 
-#### [3.3 非关系型数据库存储](https://github.com/weylin0714/WebSpider/blob/master/ch03/%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%98%E5%82%A8.md)
+#### 3.1 Ajax 爬取原理与例实战
 
-`test`
+#### 3.2 Selenium 爬取原理与实战
 
+#### 3.3 异步爬虫原理与实战
+
+#### 3.4 爬虫神器 Pyppeteer 使用与实战
+
+## 4. 反爬虫的应对方法
+
+#### 4.1 代理的基本原理与用法
+
+#### 4.2 代理池的搭建与使用
+
+#### 4.3 验证码反爬虫
+
+#### 4.4 模拟登录的原理与实战
+
+#### 4.5 JavaScript 逆向
+
+## 5. Scrapy爬虫框架的使用
+
+#### 5.1 Scrapy的流程和原理介绍
+
+#### 5.2 Spider 的用法
+
+#### 5.3 Middleware 的用法
+
+#### 5.4 Item Pipeline 的用法
+
+#### 5.5 JavaScript 渲染页面的爬取
+
+#### 5.6 爬虫的分布式实现
+
+#### 5.7 Scrapy 部署
+
+## 6. APP的爬取
+
+#### 6.1 Charles 的使用
+
+#### 6.2 mitmproxy 的使用
+
+#### 6.3 Appium 的使用
+
+#### 6.4 airtest 的使用
+
+#### 6.5 Xposed 的使用
+
+#### 6.6 案例实战
