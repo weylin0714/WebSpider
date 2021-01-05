@@ -22,9 +22,9 @@
 
 #### [2.5 pyquery的使用](https://nbviewer.jupyter.org/github/weylin0714/WebSpider/blob/master/ch02/%E8%A7%A3%E6%9E%90%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8-pyquery.ipynb)
 
-#### 2.6 高效存储 MongoDB 的用法
+#### [2.6 高效存储 MongoDB 的用法](https://github.com/weylin0714/WebSpider/blob/master/ch02/%E9%AB%98%E6%95%88%E5%AD%98%E5%82%A8%20MongoDB%20%E7%9A%84%E7%94%A8%E6%B3%95.md)
 
-#### 2.7 基本案例实战
+#### [2.7 基本案例实战](https://github.com/weylin0714/WebSpider/blob/master/ch02/%E5%9F%BA%E6%9C%AC%E6%A1%88%E4%BE%8B%E5%AE%9E%E6%88%98.md)
 
 ## 3. 多种形式的爬取方法
 
